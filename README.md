@@ -1,6 +1,7 @@
 # Simulation et contrôle d'un double pendule monté sur un chariot
 
-Ce dépôt contient un ensemble de fichiers et de scripts permettant de simuler, stabiliser et explorer le contrôle d’un double pendule monté sur un chariot en translation linéaire. 
+Ce dépôt contient l'essentiel des ressources (articles et thèses utiles, codes) jugées pertinentes par l'équipe 24-25.
+Il permet de simuler, stabiliser et explorer le contrôle d’un double pendule monté sur un chariot en translation linéaire. 
 
 ## Table des matières
 - [Structure du dépôt](#structure-du-dépôt)
