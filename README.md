@@ -34,8 +34,9 @@ Le dépôt est organisé en plusieurs dossiers :
 
 ### 3. **`documentation`**
    - Ce dossier contient des **documents explicatifs** sur :
-     - Les bases de la **théorie du contrôle** pour le double pendule.
+     - La **théorie du contrôle** pour le double pendule.
      - Une introduction et un guide sur **PILCO**.
+     - Une autre approche d'apprentissage par renforcement
 
 ---
 
