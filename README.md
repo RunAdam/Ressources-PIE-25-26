@@ -10,14 +10,6 @@ Il permet de simuler, stabiliser et explorer le contrôle d’un double pendule 
    - Pour comprendre pourquoi les IA classiques mettent beaucoup trop longtemps à apprendre à stabiliser un double pendule : https://www.youtube.com/watch?v=9gQQAO4I1Ck&list=PLOKE46QBHgpoqFyFBukyGVAGmkRzaNfBK&index=3
 
 
-## Table des matières
-- [Structure du dépôt](#structure-du-dépôt)
-- [Utilisation](#utilisation)
-- [Détails des méthodes](#détails-des-méthodes)
-- [Documents disponibles](#documents-disponibles)
-
----
-
 ## Structure du dépôt
 
 Le dépôt est organisé en plusieurs dossiers :
